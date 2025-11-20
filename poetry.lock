@@ -1,5 +1,0 @@
-[[package]]
-name = "django"
-version = "2.2.0"
-category = "main"
-optional = false
