@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    uri (0.12.4)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  uri (= 0.12.4)
+
+RUBY VERSION
+   ruby 3.2.8p263
+
+BUNDLED WITH
+   2.4.19
